@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Start new React project ",
+      "day": "Friday",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Review Social traqr ",
+      "day": "Friday ",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Add more project to demo ",
+      "day": "Friday ",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
